@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67447840/190667698-6b8ecf51-e98e-4dd4-9255-5c1b7f30e9c6.gif" alt="Welcome Gif" width="800"/>
   <h1>Hola 👋, Soy Renzo Crisanto</h1>
@@ -121,7 +123,7 @@
 ## 🏆 Trofeos
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xXRenzoElProXx&theme=outrun&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de GitHub de Renzo"/>
+    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=xXRenzoElProXx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </p>
 
@@ -135,9 +137,8 @@
   </a>
 </p>
 
----
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/190667699-d57d458e-ebb2-42f1-a4d5-302fa8c067a5.gif" alt="Thanks Gif" width="800"/>
-  <h2>¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y conectarte conmigo en las redes sociales.</h2>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
