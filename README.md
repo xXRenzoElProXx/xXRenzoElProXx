@@ -5,10 +5,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Software;Programador+Competitivo;Mejora+continua;Trabajo+en+equipo;Comunicación+efectiva;Siempre+aprendiendo+cosas+nuevas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Software;Programador+Competitivo;Mejora+continua;Trabajo+en+equipo;Comunicación+efectiva;Siempre+aprendiendo+cosas+nuevas">
+  </a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
 <table>
   <tr>
@@ -33,7 +35,7 @@
 <br/>
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22eiwo35b5jhddw56giobjxxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22eiwo35b5jhddw56giobjxxy&redirect=true)
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Lenguajes y Herramientas que Utilizo
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Lenguajes y Herramientas que Utilizo
 <p align="center">
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -113,15 +115,15 @@
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Estadísticas de GitHub
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/xXRenzoElProXx?cardType=github&theme=outrun&preferLogin=false&Border=DD2727&Text=DDDDDD" alt="Estadísticas de GitHub de Renzo"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXRenzoElProXx&theme=outrun&hide_border=false&Border=DD2727" alt="Racha de GitHub de Renzo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXRenzoElProXx&theme=outrun&hide_border=false&border=DD2727" alt="Racha de GitHub de Renzo"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRenzoElProXx&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más Usados por Renzo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRenzoElProXx&theme=outrun&show_icons=true&hide_border=false&layout=compact&border_color=DD2727" alt="Lenguajes más Usados por Renzo"/>
 </p>
 
 ## 🏆 Trofeos
@@ -134,15 +136,15 @@
 ## 🌟 Proyectos Destacados
 <p align="center">
   <a href="https://github.com/xXRenzoElProXx/TrabajoFinalCertus" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=outrun" alt="Proyecto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=outrun&border_color=DD2727" alt="Proyecto 1"/>
   </a>
   <a href="https://github.com/xXRenzoElProXx/Trabajo-FINAL---CERTUS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=outrun" alt="Proyecto 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=outrun&border_color=DD2727" alt="Proyecto 2"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
