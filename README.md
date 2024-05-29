@@ -99,16 +99,16 @@
   <a href="https://dev.to/@depthdev" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://www.linkedin.com/in/renzo-crisanto/" target="_blank">
+  <a href="https://www.linkedin.com/in/renzo-crisanto-a031402a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/DepthDev" target="_blank">
+  <a href="https://www.facebook.com/dephtdev/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/renzo.crisanto2023" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://stackoverflow.com/users/depthdev" target="_blank">
+  <a href="https://stackoverflow.com/users/25297982/depthdev" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
 </p>
