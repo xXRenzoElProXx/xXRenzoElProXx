@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniería+de+Software;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Software;Programador+Competitivo;Mejora+continua;Trabajo+en+equipo;Comunicación+efectiva;Siempre+aprendiendo+cosas+nuevas"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
@@ -14,10 +14,10 @@
   <tr>
     <td>
       <ul>
-        <li>🌱 Actualmente aprendiendo <strong>desarrollo de aplicaciones móviles con Flutter</strong>.</li>
+        <li>🌱 Actualmente aprendiendo más cosas en <strong>desarrollo de aplicaciones web con PHP</strong>.</li>
         <li>👯 Busco colaborar en <strong>proyectos de código abierto</strong>.</li>
-        <li>💬 Puedes preguntarme sobre <strong>JavaScript, React, Node.js y Python</strong>.</li>
-        <li>📫 Contáctame en <strong>renzocrisanto.dev@gmail.com</strong>.</li>
+        <li>💬 Puedes preguntarme sobre <strong>JavaScript, React, C++ y Java</strong>.</li>
+        <li>📫 Contáctame en <strong>renzocrisanto2023@gmail.com</strong>.</li>
         <li>⚡ Dato curioso: Me encanta tocar guitarra y jugar videojuegos.</li>
       </ul>
     </td>
