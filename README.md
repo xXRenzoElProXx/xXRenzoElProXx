@@ -133,11 +133,11 @@
 
 ## 🌟 Proyectos Destacados
 <p align="center">
-  <a href="https://github.com/xXRenzoElProXx/proyecto1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=proyecto1&theme=outrun" alt="Proyecto 1"/>
+  <a href="https://github.com/xXRenzoElProXx/TrabajoFinalCertus" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=outrun" alt="Proyecto 1"/>
   </a>
-  <a href="https://github.com/xXRenzoElProXx/proyecto2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=proyecto2&theme=outrun" alt="Proyecto 2"/>
+  <a href="https://github.com/xXRenzoElProXx/Trabajo-FINAL---CERTUS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=outrun" alt="Proyecto 2"/>
   </a>
 </p>
 
