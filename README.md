@@ -33,7 +33,7 @@
 [![Música para Programar](https://img.shields.io/badge/Música%20para%20Programar-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
 [![Música para Estudiar](https://img.shields.io/badge/Música%20para%20Estudiar-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6Xw4FVqCbIstSaT2SHZp2w?si=6b31ddff2e234e6f) 
 <br/>
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22eiwo35b5jhddw56giobjxxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22eiwo35b5jhddw56giobjxxy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22eiwo35b5jhddw56giobjxxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22eiwo35b5jhddw56giobjxxy&redirect=true)
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Lenguajes y Herramientas que Utilizo
 <p align="center">
