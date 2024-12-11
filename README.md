@@ -118,9 +118,6 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/xXRenzoElProXx?cardType=github&theme=outrun&preferLogin=false&Border=DD2727&Text=DDDDDD" alt="Estadísticas de GitHub de Renzo"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXRenzoElProXx&theme=outrun&hide_border=false&border=DD2727" alt="Racha de GitHub de Renzo"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRenzoElProXx&theme=outrun&show_icons=true&hide_border=false&layout=compact&border_color=DD2727" alt="Lenguajes más Usados por Renzo"/>
 </p>
 
