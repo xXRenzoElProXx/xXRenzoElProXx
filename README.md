@@ -79,10 +79,10 @@ const renzo = {
 <div align="center">
 
 <a href="https://github.com/xXRenzoElProXx/TrabajoFinalCertus" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/xXRenzoElProXx/Trabajo-FINAL---CERTUS" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
