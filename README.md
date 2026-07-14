@@ -74,18 +74,13 @@ const renzo = {
 
 <br/>
 
-## 🌟 Proyectos Destacados
+## 🐍 Mi actividad en GitHub
 
 <div align="center">
-
-<a href="https://github.com/xXRenzoElProXx/TrabajoFinalCertus" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/xXRenzoElProXx/Trabajo-FINAL---CERTUS" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/xXRenzoElProXx/xXRenzoElProXx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+> Esta animación se genera con un GitHub Action que corre en tu propio repositorio, así que no depende de ningún servicio externo (Vercel, Heroku, etc.) y no debería romperse. Instrucciones abajo para activarla.
 
 <br/>
 
