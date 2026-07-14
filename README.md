@@ -57,8 +57,8 @@ const renzo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xXRenzoElProXx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRenzoElProXx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xXRenzoElProXx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRenzoElProXx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXRenzoElProXx&theme=tokyonight&hide_border=true" />
 
@@ -69,7 +69,7 @@ const renzo = {
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xXRenzoElProXx&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xXRenzoElProXx&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true&cache_seconds=86400"/>
 </div>
 
 <br/>
@@ -79,10 +79,10 @@ const renzo = {
 <div align="center">
 
 <a href="https://github.com/xXRenzoElProXx/TrabajoFinalCertus" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=TrabajoFinalCertus&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/xXRenzoElProXx/Trabajo-FINAL---CERTUS" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXRenzoElProXx&repo=Trabajo-FINAL---CERTUS&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 </div>
