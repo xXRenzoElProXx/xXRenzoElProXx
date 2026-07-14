@@ -69,7 +69,7 @@ const renzo = {
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xXRenzoElProXx&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true&cache_seconds=86400"/>
+  <img src="https://github-trophies.vercel.app/?username=xXRenzoElProXx&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
 </div>
 
 <br/>
